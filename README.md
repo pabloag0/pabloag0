@@ -31,7 +31,7 @@ Estudiante de Ingeniería del Software buscando experiencia en proyectos reales.
 - 🧠 **[Credit risk — MLOps](https://github.com/pabloag0/credit-risk-mlops)**: Sistema end-to-end de predicción de riesgo crediticio. CI/CD automático, Docker y API (FastAPI) con trazabilidad de predicciones.
 - 🍳 **[SmartCook](https://github.com/croquetas-coquetas/app)** 🏆: App web de planificación de menús y lista de la compra automatizada *(Premio al Talento del Grado)*.
 - 📊 **[Clasificación riesgo crediticio (ML)](https://github.com/pabloag0/loan_approval)**: Comparativa de regresión logística vs redes neuronales profundas (PyTorch) en un dataset de 45k solicitudes.
-- 📦 **[PrimePC](#)**: Aplicación de escritorio comercial (Java) aplicando 3 capas, POO y persistencia mixta (JPA/JDBC).
+- 📦 **[PrimePC](https://github.com/pabloag0/ms_primePC)**: Aplicación de escritorio comercial (Java) aplicando 3 capas, POO y persistencia mixta (JPA/JDBC).
 - 🎾 **[Marcador inteligente de pádel](https://github.com/pabloag0/Padel)**: Sistema IoT (ESP32 y C/C++) con sincronización Bluetooth para smartwatches.
 
 ## 🎓 Formación
